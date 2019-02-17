@@ -1,0 +1,14 @@
+02/17/2019 18:38:42.33	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (Не удается найти указанный файл. (Exception from HRESULT: 0x80070002))
+02/17/2019 18:38:43.97	Information	HResult: -2146233088
+Message: One or more errors occurred. (Не удается найти указанный файл. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0x233
+
+02/17/2019 18:38:44.28	Information	Discovery Notification Task started. Checking conditions...
+02/17/2019 18:38:44.31	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (Не удается найти указанный файл. (Exception from HRESULT: 0x80070002))
+02/17/2019 18:38:44.31	Information	HResult: -2146233088
+Message: One or more errors occurred. (Не удается найти указанный файл. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0x233
+
+02/17/2019 18:38:44.66	Information	Tailored experience disabled by user. No Notification Shown.

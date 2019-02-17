@@ -1,0 +1,8 @@
+1,"fusion","GAC",0
+1,"WinRT","NotApp",1
+3,"System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\f2c85d2a8f53f15afc5e985b8b190206\System.ni.dll",0
+3,"System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\5abf8ea05a6eb63a39c7a3e1b5061c40\System.Core.ni.dll",0
+3,"WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\WindowsBase\03c76d7ce2fb4e82a604311437d4c78e\WindowsBase.ni.dll",0
+3,"PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\PresentationCore\2e62eb0615fe3ddc690430f4754c5ee9\PresentationCore.ni.dll",0
+3,"PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\1ffa8aee628840413da5d86076124375\PresentationFramework.ni.dll",0
+3,"System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xaml\8c258c69400abf31fe5397f6e3bd70c4\System.Xaml.ni.dll",0
